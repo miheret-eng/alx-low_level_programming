@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 #include <stdio.h>
 
@@ -10,7 +10,7 @@
 
 /**
 
- * main - check the code for ALX School students.
+ * main - check the code
 
  *
 
